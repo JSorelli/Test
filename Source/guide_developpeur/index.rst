@@ -1,4 +1,4 @@
-.. _guide_developpeur:
+.. guide_developpeur:
 ####################
 Guide du développeur
 ####################
