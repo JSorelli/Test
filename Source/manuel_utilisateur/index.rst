@@ -4,4 +4,4 @@ Manuel de l'utilisateur
 #######################
 
 .. toctree::
-    admin_parametrage/index.rst
+    admin_parametrages/index.rst
