@@ -32,7 +32,7 @@ source_suffix = '.rst'
 # The master toctree document.
 master_doc = 'index'
 # General information about the project.
-project = u'openMarchéForain1.0'
+project = u'openMarchéForain 1.0'
 copyright = u'2004-2015, openMairie'
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
