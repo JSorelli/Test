@@ -1,5 +1,5 @@
 #######################
 Logo Ville de Marseille
 #######################
-..image:: Desert.jpg
+.. image:: Desert.jpg
 
